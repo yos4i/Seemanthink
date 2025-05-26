@@ -156,7 +156,7 @@ if __name__ == "__main__":
     clusters, silhouette_score = system.run_complete_analysis(n_clusters, dataset_name)
 
     print(f"Analysis complete. Results saved to {results_folder}")
-    #printer
+    #printerh
     # Start semantic exploration loop
     explorer = SemanticExplorer(
         analyzer=system.analyzer,

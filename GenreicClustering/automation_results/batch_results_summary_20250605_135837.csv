@@ -1,3 +1,0 @@
-target_word,target_cluster,found,total_guesses,final_score,avg_score,max_score,strategy,recursive_depth
-create,4,False,10,4.99299094080925,0.5188911408185959,16.13686829805374,exploit,0
-paideia,4,False,30,13.906846940517426,7.976008572926124,25.434789061546326,exploit,1

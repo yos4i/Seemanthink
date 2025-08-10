@@ -1,0 +1,120 @@
+Automated Semantle Exploration Report
+==================================================
+Target Word: dog
+Total Guesses: 100
+Found: False
+Best Guess: bobolinks (Score: 16.70)
+
+Cluster Visit Counts:
+  Cluster 0: 1 visits
+  Cluster 1: 1 visits
+  Cluster 2: 1 visits
+  Cluster 3: 1 visits
+  Cluster 4: 1 visits
+  Cluster 5: 1 visits
+  Cluster 6: 1 visits
+  Cluster 7: 91 visits
+  Cluster 8: 1 visits
+  Cluster 9: 1 visits
+
+Guess History:
+  1. pushes - Score: -3.51, Cluster: 0
+  2. bobolinks - Score: 16.70, Cluster: 7
+  3. pimientos - Score: 0.64, Cluster: 8
+  4. nailheads - Score: -8.45, Cluster: 3
+  5. rattled - Score: 1.82, Cluster: 5
+  6. presolicitation - Score: 4.28, Cluster: 4
+  7. slavishness - Score: -6.75, Cluster: 1
+  8. elastase - Score: 2.79, Cluster: 9
+  9. lori - Score: 7.62, Cluster: 6
+  10. lunkheaded - Score: -1.52, Cluster: 2
+  11. bobolinks - Score: 16.70, Cluster: 7
+  12. bobolinks - Score: 16.70, Cluster: 7
+  13. bobolinks - Score: 16.70, Cluster: 7
+  14. bobolinks - Score: 16.70, Cluster: 7
+  15. bobolinks - Score: 16.70, Cluster: 7
+  16. bobolinks - Score: 16.70, Cluster: 7
+  17. bobolinks - Score: 16.70, Cluster: 7
+  18. bobolinks - Score: 16.70, Cluster: 7
+  19. bobolinks - Score: 16.70, Cluster: 7
+  20. bobolinks - Score: 16.70, Cluster: 7
+  21. bobolinks - Score: 16.70, Cluster: 7
+  22. bobolinks - Score: 16.70, Cluster: 7
+  23. bobolinks - Score: 16.70, Cluster: 7
+  24. bobolinks - Score: 16.70, Cluster: 7
+  25. bobolinks - Score: 16.70, Cluster: 7
+  26. bobolinks - Score: 16.70, Cluster: 7
+  27. bobolinks - Score: 16.70, Cluster: 7
+  28. bobolinks - Score: 16.70, Cluster: 7
+  29. bobolinks - Score: 16.70, Cluster: 7
+  30. bobolinks - Score: 16.70, Cluster: 7
+  31. bobolinks - Score: 16.70, Cluster: 7
+  32. bobolinks - Score: 16.70, Cluster: 7
+  33. bobolinks - Score: 16.70, Cluster: 7
+  34. bobolinks - Score: 16.70, Cluster: 7
+  35. bobolinks - Score: 16.70, Cluster: 7
+  36. bobolinks - Score: 16.70, Cluster: 7
+  37. bobolinks - Score: 16.70, Cluster: 7
+  38. bobolinks - Score: 16.70, Cluster: 7
+  39. bobolinks - Score: 16.70, Cluster: 7
+  40. bobolinks - Score: 16.70, Cluster: 7
+  41. bobolinks - Score: 16.70, Cluster: 7
+  42. bobolinks - Score: 16.70, Cluster: 7
+  43. bobolinks - Score: 16.70, Cluster: 7
+  44. bobolinks - Score: 16.70, Cluster: 7
+  45. bobolinks - Score: 16.70, Cluster: 7
+  46. bobolinks - Score: 16.70, Cluster: 7
+  47. bobolinks - Score: 16.70, Cluster: 7
+  48. bobolinks - Score: 16.70, Cluster: 7
+  49. bobolinks - Score: 16.70, Cluster: 7
+  50. bobolinks - Score: 16.70, Cluster: 7
+  51. bobolinks - Score: 16.70, Cluster: 7
+  52. bobolinks - Score: 16.70, Cluster: 7
+  53. bobolinks - Score: 16.70, Cluster: 7
+  54. bobolinks - Score: 16.70, Cluster: 7
+  55. bobolinks - Score: 16.70, Cluster: 7
+  56. bobolinks - Score: 16.70, Cluster: 7
+  57. bobolinks - Score: 16.70, Cluster: 7
+  58. bobolinks - Score: 16.70, Cluster: 7
+  59. bobolinks - Score: 16.70, Cluster: 7
+  60. bobolinks - Score: 16.70, Cluster: 7
+  61. bobolinks - Score: 16.70, Cluster: 7
+  62. bobolinks - Score: 16.70, Cluster: 7
+  63. bobolinks - Score: 16.70, Cluster: 7
+  64. bobolinks - Score: 16.70, Cluster: 7
+  65. bobolinks - Score: 16.70, Cluster: 7
+  66. bobolinks - Score: 16.70, Cluster: 7
+  67. bobolinks - Score: 16.70, Cluster: 7
+  68. bobolinks - Score: 16.70, Cluster: 7
+  69. bobolinks - Score: 16.70, Cluster: 7
+  70. bobolinks - Score: 16.70, Cluster: 7
+  71. bobolinks - Score: 16.70, Cluster: 7
+  72. bobolinks - Score: 16.70, Cluster: 7
+  73. bobolinks - Score: 16.70, Cluster: 7
+  74. bobolinks - Score: 16.70, Cluster: 7
+  75. bobolinks - Score: 16.70, Cluster: 7
+  76. bobolinks - Score: 16.70, Cluster: 7
+  77. bobolinks - Score: 16.70, Cluster: 7
+  78. bobolinks - Score: 16.70, Cluster: 7
+  79. bobolinks - Score: 16.70, Cluster: 7
+  80. bobolinks - Score: 16.70, Cluster: 7
+  81. bobolinks - Score: 16.70, Cluster: 7
+  82. bobolinks - Score: 16.70, Cluster: 7
+  83. bobolinks - Score: 16.70, Cluster: 7
+  84. bobolinks - Score: 16.70, Cluster: 7
+  85. bobolinks - Score: 16.70, Cluster: 7
+  86. bobolinks - Score: 16.70, Cluster: 7
+  87. bobolinks - Score: 16.70, Cluster: 7
+  88. bobolinks - Score: 16.70, Cluster: 7
+  89. bobolinks - Score: 16.70, Cluster: 7
+  90. bobolinks - Score: 16.70, Cluster: 7
+  91. bobolinks - Score: 16.70, Cluster: 7
+  92. bobolinks - Score: 16.70, Cluster: 7
+  93. bobolinks - Score: 16.70, Cluster: 7
+  94. bobolinks - Score: 16.70, Cluster: 7
+  95. bobolinks - Score: 16.70, Cluster: 7
+  96. bobolinks - Score: 16.70, Cluster: 7
+  97. bobolinks - Score: 16.70, Cluster: 7
+  98. bobolinks - Score: 16.70, Cluster: 7
+  99. bobolinks - Score: 16.70, Cluster: 7
+  100. bobolinks - Score: 16.70, Cluster: 7

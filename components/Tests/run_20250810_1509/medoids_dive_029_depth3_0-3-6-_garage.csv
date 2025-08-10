@@ -1,0 +1,4 @@
+Medoid1_ID,Medoid1_Word,Medoid2_ID,Medoid2_Word,Euclidean_Distance,Cosine_Distance
+0,groomer,1,dog,19.789957,0.56320906
+0,groomer,2,lurcher,23.66951,0.6918155
+1,dog,2,lurcher,17.82668,0.45249635

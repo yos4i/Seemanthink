@@ -1,0 +1,6 @@
+Dataset,Words,Normalization,Clustering_algorithm,Distance_metric,n_clusters,silhouette_score
+english-words,97418,Normalizer,KMeans,euclidean,10,0.016852152
+english-words,97418,Normalizer,KMeans,euclidean,20,0.018073821
+english-words,97418,Normalizer,KMeans,euclidean,30,0.017105283
+english-words,97418,Normalizer,KMeans,euclidean,40,0.017950304
+english-words,97418,Normalizer,KMeans,euclidean,50,0.017939504

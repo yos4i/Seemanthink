@@ -1,0 +1,35 @@
+Automated Semantle Testing - Aggregate Report
+============================================================
+Number of Clusters: 10
+Total Tests: 5
+Successful Tests: 0
+Success Rate: 0.00%
+Average Guesses per Word: 100.00
+
+Individual Test Results:
+------------------------------------------------------------
+
+Test 1: computer
+  Found: False
+  Total Guesses: 100
+  Best Guess: presolicitation (Score: 20.76)
+
+Test 2: dog
+  Found: False
+  Total Guesses: 100
+  Best Guess: bobolinks (Score: 16.70)
+
+Test 3: happy
+  Found: False
+  Total Guesses: 100
+  Best Guess: rattled (Score: 12.04)
+
+Test 4: science
+  Found: False
+  Total Guesses: 100
+  Best Guess: presolicitation (Score: 9.88)
+
+Test 5: music
+  Found: False
+  Total Guesses: 100
+  Best Guess: lori (Score: 7.28)

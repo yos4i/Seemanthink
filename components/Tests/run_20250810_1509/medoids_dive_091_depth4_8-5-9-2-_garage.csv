@@ -1,0 +1,4 @@
+Medoid1_ID,Medoid1_Word,Medoid2_ID,Medoid2_Word,Euclidean_Distance,Cosine_Distance
+0,rap,1,hippie,22.976385,0.82511044
+0,rap,2,hipsters,21.709799,0.7205938
+1,hippie,2,hipsters,19.29321,0.525792

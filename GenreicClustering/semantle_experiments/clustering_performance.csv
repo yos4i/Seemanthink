@@ -1,6 +1,0 @@
-target_word,method,total_guesses,won,best_score
-apple,medoid,10,False,40.64
-car,medoid,10,False,16.51
-happy,medoid,10,False,18.02
-science,medoid,10,False,16.38
-music,medoid,10,False,16.9

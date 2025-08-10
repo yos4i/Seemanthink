@@ -1,0 +1,6 @@
+target_word,found,total_guesses,best_score,best_word
+computer,False,100,20.76,presolicitation
+dog,False,100,16.7,bobolinks
+happy,False,100,12.04,rattled
+science,False,100,9.88,presolicitation
+music,False,100,7.28,lori

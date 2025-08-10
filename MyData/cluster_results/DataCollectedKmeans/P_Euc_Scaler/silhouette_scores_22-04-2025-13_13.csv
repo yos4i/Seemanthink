@@ -1,0 +1,6 @@
+Dataset,Words,Normalization,Clustering_algorithm,Distance_metric,n_clusters,silhouette_score
+English-Words_Pimantle,106981,StandardScaler,KMeans,euclidean,10,-0.029358847
+English-Words_Pimantle,106981,StandardScaler,KMeans,euclidean,20,-0.0651776
+English-Words_Pimantle,106981,StandardScaler,KMeans,euclidean,30,-0.090022855
+English-Words_Pimantle,106981,StandardScaler,KMeans,euclidean,40,-0.10688266
+English-Words_Pimantle,106981,StandardScaler,KMeans,euclidean,50,-0.11008152

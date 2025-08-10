@@ -1,0 +1,10 @@
+Semantle Clustering Experiment
+Run started: 2025-08-10 13:12:44
+==================================================
+
+
+Target: garage
+Found: Yes
+Total guesses: 39
+Best guess: garage (100.00)
+------------------------------

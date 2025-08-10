@@ -1,0 +1,16 @@
+Medoid1_ID,Medoid1_Word,Medoid2_ID,Medoid2_Word,Euclidean_Distance,Cosine_Distance
+0,surreys,1,caravanning,19.747786,0.75684005
+0,surreys,2,gallon,24.905724,0.8753129
+0,surreys,3,driverless,27.494144,0.81571233
+0,surreys,4,liveried,23.16918,0.758331
+0,surreys,5,boonies,20.263456,0.8107469
+1,caravanning,2,gallon,27.652567,0.8492217
+1,caravanning,3,driverless,31.430511,0.9065685
+1,caravanning,4,liveried,27.760054,0.87627566
+1,caravanning,5,boonies,24.190807,0.8331219
+2,gallon,3,driverless,34.404602,0.92935646
+2,gallon,4,liveried,32.502586,0.99013877
+2,gallon,5,boonies,28.238276,0.8910568
+3,driverless,4,liveried,31.768675,0.80287576
+3,driverless,5,boonies,30.945185,0.88046443
+4,liveried,5,boonies,30.318428,1.0546056

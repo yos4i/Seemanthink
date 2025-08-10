@@ -1,0 +1,19 @@
+Site,Language,target_word,guess,similarity_score,iteration,word_embedding,vocabulary_words_file_name_path,vocabulary_words_count,execution_time
+Pimantle,English,patriot,effectuates,13.355262089019494,1,Word2vec Model,C:\Users\yossi\Downloads\final project\FinalProject\MyData\english-words.txt,97418,0.005511045455932617
+Pimantle,English,patriot,pentagon,18.538746007514394,2,Word2vec Model,C:\Users\yossi\Downloads\final project\FinalProject\MyData\english-words.txt,97418,0.4873161315917969
+Pimantle,English,patriot,patriot,100.0,3,Word2vec Model,C:\Users\yossi\Downloads\final project\FinalProject\MyData\english-words.txt,97418,0.48831963539123535
+Pimantle,English,vinyl,didacticism,8.694956469096049,1,Word2vec Model,C:\Users\yossi\Downloads\final project\FinalProject\MyData\english-words.txt,97418,0.010002374649047852
+Pimantle,English,vinyl,sportscast,8.441433112325857,2,Word2vec Model,C:\Users\yossi\Downloads\final project\FinalProject\MyData\english-words.txt,97418,0.4330151081085205
+Pimantle,English,vinyl,vinyl,100.0,3,Word2vec Model,C:\Users\yossi\Downloads\final project\FinalProject\MyData\english-words.txt,97418,0.4339940547943115
+Pimantle,English,painting,goonies,10.900679268088787,1,Word2vec Model,C:\Users\yossi\Downloads\final project\FinalProject\MyData\english-words.txt,97418,0.0045087337493896484
+Pimantle,English,painting,balms,17.323177780783517,2,Word2vec Model,C:\Users\yossi\Downloads\final project\FinalProject\MyData\english-words.txt,97418,0.38626718521118164
+Pimantle,English,painting,painting,100.0,3,Word2vec Model,C:\Users\yossi\Downloads\final project\FinalProject\MyData\english-words.txt,97418,0.3872644901275635
+Pimantle,English,dark,slouches,14.805429652944934,1,Word2vec Model,C:\Users\yossi\Downloads\final project\FinalProject\MyData\english-words.txt,97418,0.004492759704589844
+Pimantle,English,dark,heckled,-0.20714047200063312,2,Word2vec Model,C:\Users\yossi\Downloads\final project\FinalProject\MyData\english-words.txt,97418,0.35643720626831055
+Pimantle,English,dark,dark,100.0,3,Word2vec Model,C:\Users\yossi\Downloads\final project\FinalProject\MyData\english-words.txt,97418,0.35741114616394043
+Pimantle,English,hype,feministic,6.761261255813511,1,Word2vec Model,C:\Users\yossi\Downloads\final project\FinalProject\MyData\english-words.txt,97418,0.0015056133270263672
+Pimantle,English,hype,cadging,-1.1353286223870773,2,Word2vec Model,C:\Users\yossi\Downloads\final project\FinalProject\MyData\english-words.txt,97418,0.3928029537200928
+Pimantle,English,hype,hype,100.0,3,Word2vec Model,C:\Users\yossi\Downloads\final project\FinalProject\MyData\english-words.txt,97418,0.39379310607910156
+Pimantle,English,automated,soup,0.8954128825928942,1,Word2vec Model,C:\Users\yossi\Downloads\final project\FinalProject\MyData\english-words.txt,97418,0.005519390106201172
+Pimantle,English,automated,civvies,-4.9107401555533725,2,Word2vec Model,C:\Users\yossi\Downloads\final project\FinalProject\MyData\english-words.txt,97418,0.41162681579589844
+Pimantle,English,automated,automated,100.0,3,Word2vec Model,C:\Users\yossi\Downloads\final project\FinalProject\MyData\english-words.txt,97418,0.4126262664794922

@@ -1,0 +1,8 @@
+Dataset,Words,Normalization,Clustering_algorithm,Distance_metric,n_clusters,silhouette_score
+English-Words_Semantle,97418,None,KMeans,cosine,10,0.028395576
+English-Words_Semantle,97418,None,KMeans,cosine,20,0.02549884
+English-Words_Semantle,97418,None,KMeans,cosine,30,0.025499558
+English-Words_Semantle,97418,None,KMeans,cosine,40,0.022072464
+English-Words_Semantle,97418,None,KMeans,cosine,50,0.02482461
+English-Words_Semantle,97418,None,KMeans,cosine,60,0.0250997
+English-Words_Semantle,97418,None,KMeans,cosine,70,0.018342461

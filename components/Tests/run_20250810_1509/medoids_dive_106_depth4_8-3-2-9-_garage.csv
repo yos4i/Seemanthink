@@ -1,0 +1,4 @@
+Medoid1_ID,Medoid1_Word,Medoid2_ID,Medoid2_Word,Euclidean_Distance,Cosine_Distance
+0,cacophonous,1,crackle,22.521694,0.7044662
+0,cacophonous,2,thrumming,18.044739,0.5406915
+1,crackle,2,thrumming,19.846113,0.5409412

@@ -1,0 +1,7 @@
+Medoid1_ID,Medoid1_Word,Medoid2_ID,Medoid2_Word,Euclidean_Distance,Cosine_Distance
+0,subcompact,1,coupe,20.85977,0.3996787
+0,subcompact,2,legroom,34.534027,0.70213974
+0,subcompact,3,cabriolets,22.446222,0.54498744
+1,coupe,2,legroom,33.826923,0.748509
+1,coupe,3,cabriolets,17.866982,0.46582997
+2,legroom,3,cabriolets,31.325771,0.70990014

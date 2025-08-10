@@ -1,0 +1,11 @@
+Medoid1_ID,Medoid1_Word,Medoid2_ID,Medoid2_Word,Euclidean_Distance,Cosine_Distance
+0,suretyship,1,objector,24.130999,0.837433
+0,suretyship,2,conveyances,19.205454,0.70930344
+0,suretyship,3,payee,21.558002,0.6156516
+0,suretyship,4,returnable,24.023285,0.75705945
+1,objector,2,conveyances,28.265762,0.9519148
+1,objector,3,payee,29.413904,0.8432216
+1,objector,4,returnable,30.545305,0.88238263
+2,conveyances,3,payee,27.942072,0.9091803
+2,conveyances,4,returnable,25.698269,0.7356316
+3,payee,4,returnable,29.306799,0.7985369

@@ -1,0 +1,11 @@
+Medoid1_ID,Medoid1_Word,Medoid2_ID,Medoid2_Word,Euclidean_Distance,Cosine_Distance
+0,trike,1,van,20.875195,0.57882184
+0,trike,2,unserviceable,29.13915,0.90392256
+0,trike,3,surreys,18.680544,0.5718652
+0,trike,4,transporter,24.09615,0.748036
+1,van,2,unserviceable,29.334324,0.9966823
+1,van,3,surreys,19.493366,0.7647801
+1,van,4,transporter,22.778957,0.74071896
+2,unserviceable,3,surreys,24.765564,0.8920683
+2,unserviceable,4,transporter,27.551392,0.8514819
+3,surreys,4,transporter,20.78983,0.8308339

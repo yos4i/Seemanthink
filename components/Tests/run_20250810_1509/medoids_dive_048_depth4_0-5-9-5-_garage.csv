@@ -1,0 +1,4 @@
+Medoid1_ID,Medoid1_Word,Medoid2_ID,Medoid2_Word,Euclidean_Distance,Cosine_Distance
+0,forklift,1,hauler,22.930397,0.6143747
+0,forklift,2,tractor,17.311787,0.41662467
+1,hauler,2,tractor,22.625343,0.60647345

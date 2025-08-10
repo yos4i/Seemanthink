@@ -1,0 +1,120 @@
+Automated Semantle Exploration Report
+==================================================
+Target Word: music
+Total Guesses: 100
+Found: False
+Best Guess: lori (Score: 7.28)
+
+Cluster Visit Counts:
+  Cluster 0: 1 visits
+  Cluster 1: 1 visits
+  Cluster 2: 1 visits
+  Cluster 3: 1 visits
+  Cluster 4: 1 visits
+  Cluster 5: 1 visits
+  Cluster 6: 91 visits
+  Cluster 7: 1 visits
+  Cluster 8: 1 visits
+  Cluster 9: 1 visits
+
+Guess History:
+  1. pushes - Score: -0.22, Cluster: 0
+  2. bobolinks - Score: -0.34, Cluster: 7
+  3. rattled - Score: -1.93, Cluster: 5
+  4. elastase - Score: -7.40, Cluster: 9
+  5. lunkheaded - Score: 0.84, Cluster: 2
+  6. slavishness - Score: 2.23, Cluster: 1
+  7. presolicitation - Score: -7.69, Cluster: 4
+  8. lori - Score: 7.28, Cluster: 6
+  9. pimientos - Score: -8.32, Cluster: 8
+  10. nailheads - Score: -8.38, Cluster: 3
+  11. lori - Score: 7.28, Cluster: 6
+  12. lori - Score: 7.28, Cluster: 6
+  13. lori - Score: 7.28, Cluster: 6
+  14. lori - Score: 7.28, Cluster: 6
+  15. lori - Score: 7.28, Cluster: 6
+  16. lori - Score: 7.28, Cluster: 6
+  17. lori - Score: 7.28, Cluster: 6
+  18. lori - Score: 7.28, Cluster: 6
+  19. lori - Score: 7.28, Cluster: 6
+  20. lori - Score: 7.28, Cluster: 6
+  21. lori - Score: 7.28, Cluster: 6
+  22. lori - Score: 7.28, Cluster: 6
+  23. lori - Score: 7.28, Cluster: 6
+  24. lori - Score: 7.28, Cluster: 6
+  25. lori - Score: 7.28, Cluster: 6
+  26. lori - Score: 7.28, Cluster: 6
+  27. lori - Score: 7.28, Cluster: 6
+  28. lori - Score: 7.28, Cluster: 6
+  29. lori - Score: 7.28, Cluster: 6
+  30. lori - Score: 7.28, Cluster: 6
+  31. lori - Score: 7.28, Cluster: 6
+  32. lori - Score: 7.28, Cluster: 6
+  33. lori - Score: 7.28, Cluster: 6
+  34. lori - Score: 7.28, Cluster: 6
+  35. lori - Score: 7.28, Cluster: 6
+  36. lori - Score: 7.28, Cluster: 6
+  37. lori - Score: 7.28, Cluster: 6
+  38. lori - Score: 7.28, Cluster: 6
+  39. lori - Score: 7.28, Cluster: 6
+  40. lori - Score: 7.28, Cluster: 6
+  41. lori - Score: 7.28, Cluster: 6
+  42. lori - Score: 7.28, Cluster: 6
+  43. lori - Score: 7.28, Cluster: 6
+  44. lori - Score: 7.28, Cluster: 6
+  45. lori - Score: 7.28, Cluster: 6
+  46. lori - Score: 7.28, Cluster: 6
+  47. lori - Score: 7.28, Cluster: 6
+  48. lori - Score: 7.28, Cluster: 6
+  49. lori - Score: 7.28, Cluster: 6
+  50. lori - Score: 7.28, Cluster: 6
+  51. lori - Score: 7.28, Cluster: 6
+  52. lori - Score: 7.28, Cluster: 6
+  53. lori - Score: 7.28, Cluster: 6
+  54. lori - Score: 7.28, Cluster: 6
+  55. lori - Score: 7.28, Cluster: 6
+  56. lori - Score: 7.28, Cluster: 6
+  57. lori - Score: 7.28, Cluster: 6
+  58. lori - Score: 7.28, Cluster: 6
+  59. lori - Score: 7.28, Cluster: 6
+  60. lori - Score: 7.28, Cluster: 6
+  61. lori - Score: 7.28, Cluster: 6
+  62. lori - Score: 7.28, Cluster: 6
+  63. lori - Score: 7.28, Cluster: 6
+  64. lori - Score: 7.28, Cluster: 6
+  65. lori - Score: 7.28, Cluster: 6
+  66. lori - Score: 7.28, Cluster: 6
+  67. lori - Score: 7.28, Cluster: 6
+  68. lori - Score: 7.28, Cluster: 6
+  69. lori - Score: 7.28, Cluster: 6
+  70. lori - Score: 7.28, Cluster: 6
+  71. lori - Score: 7.28, Cluster: 6
+  72. lori - Score: 7.28, Cluster: 6
+  73. lori - Score: 7.28, Cluster: 6
+  74. lori - Score: 7.28, Cluster: 6
+  75. lori - Score: 7.28, Cluster: 6
+  76. lori - Score: 7.28, Cluster: 6
+  77. lori - Score: 7.28, Cluster: 6
+  78. lori - Score: 7.28, Cluster: 6
+  79. lori - Score: 7.28, Cluster: 6
+  80. lori - Score: 7.28, Cluster: 6
+  81. lori - Score: 7.28, Cluster: 6
+  82. lori - Score: 7.28, Cluster: 6
+  83. lori - Score: 7.28, Cluster: 6
+  84. lori - Score: 7.28, Cluster: 6
+  85. lori - Score: 7.28, Cluster: 6
+  86. lori - Score: 7.28, Cluster: 6
+  87. lori - Score: 7.28, Cluster: 6
+  88. lori - Score: 7.28, Cluster: 6
+  89. lori - Score: 7.28, Cluster: 6
+  90. lori - Score: 7.28, Cluster: 6
+  91. lori - Score: 7.28, Cluster: 6
+  92. lori - Score: 7.28, Cluster: 6
+  93. lori - Score: 7.28, Cluster: 6
+  94. lori - Score: 7.28, Cluster: 6
+  95. lori - Score: 7.28, Cluster: 6
+  96. lori - Score: 7.28, Cluster: 6
+  97. lori - Score: 7.28, Cluster: 6
+  98. lori - Score: 7.28, Cluster: 6
+  99. lori - Score: 7.28, Cluster: 6
+  100. lori - Score: 7.28, Cluster: 6

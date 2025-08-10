@@ -1,0 +1,4 @@
+Medoid1_ID,Medoid1_Word,Medoid2_ID,Medoid2_Word,Euclidean_Distance,Cosine_Distance
+0,amortized,1,receivable,29.536358,0.55662704
+0,amortized,2,nonrecurring,31.530212,0.65565705
+1,receivable,2,nonrecurring,26.987955,0.63034093

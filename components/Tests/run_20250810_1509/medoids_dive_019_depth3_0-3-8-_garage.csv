@@ -1,0 +1,7 @@
+Medoid1_ID,Medoid1_Word,Medoid2_ID,Medoid2_Word,Euclidean_Distance,Cosine_Distance
+0,intruders,1,shoplifter,26.017488,0.6676688
+0,intruders,2,robber,25.030006,0.613683
+0,intruders,3,arsonist,28.000986,0.8130884
+1,shoplifter,2,robber,21.625145,0.36735284
+1,shoplifter,3,arsonist,27.606775,0.61721617
+2,robber,3,arsonist,26.331406,0.56072044

@@ -1,0 +1,11 @@
+Medoid1_ID,Medoid1_Word,Medoid2_ID,Medoid2_Word,Euclidean_Distance,Cosine_Distance
+0,honks,1,shrill,25.08832,0.6876812
+0,honks,2,growling,25.233526,0.67444754
+0,honks,3,squawking,25.398584,0.67011774
+0,honks,4,mewing,25.48919,0.6846622
+1,shrill,2,growling,18.804333,0.63567966
+1,shrill,3,squawking,17.427,0.5227337
+1,shrill,4,mewing,19.031197,0.6418636
+2,growling,3,squawking,17.927662,0.5237262
+2,growling,4,mewing,18.096298,0.5472927
+3,squawking,4,mewing,17.949348,0.5186343

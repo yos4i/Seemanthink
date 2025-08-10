@@ -1,0 +1,120 @@
+Automated Semantle Exploration Report
+==================================================
+Target Word: science
+Total Guesses: 100
+Found: False
+Best Guess: presolicitation (Score: 9.88)
+
+Cluster Visit Counts:
+  Cluster 0: 1 visits
+  Cluster 1: 1 visits
+  Cluster 2: 1 visits
+  Cluster 3: 1 visits
+  Cluster 4: 91 visits
+  Cluster 5: 1 visits
+  Cluster 6: 1 visits
+  Cluster 7: 1 visits
+  Cluster 8: 1 visits
+  Cluster 9: 1 visits
+
+Guess History:
+  1. pushes - Score: 5.23, Cluster: 0
+  2. presolicitation - Score: 9.88, Cluster: 4
+  3. nailheads - Score: -12.16, Cluster: 3
+  4. rattled - Score: 2.69, Cluster: 5
+  5. lunkheaded - Score: -0.57, Cluster: 2
+  6. elastase - Score: 2.12, Cluster: 9
+  7. pimientos - Score: -3.52, Cluster: 8
+  8. bobolinks - Score: -3.93, Cluster: 7
+  9. slavishness - Score: 4.06, Cluster: 1
+  10. lori - Score: 1.01, Cluster: 6
+  11. presolicitation - Score: 9.88, Cluster: 4
+  12. presolicitation - Score: 9.88, Cluster: 4
+  13. presolicitation - Score: 9.88, Cluster: 4
+  14. presolicitation - Score: 9.88, Cluster: 4
+  15. presolicitation - Score: 9.88, Cluster: 4
+  16. presolicitation - Score: 9.88, Cluster: 4
+  17. presolicitation - Score: 9.88, Cluster: 4
+  18. presolicitation - Score: 9.88, Cluster: 4
+  19. presolicitation - Score: 9.88, Cluster: 4
+  20. presolicitation - Score: 9.88, Cluster: 4
+  21. presolicitation - Score: 9.88, Cluster: 4
+  22. presolicitation - Score: 9.88, Cluster: 4
+  23. presolicitation - Score: 9.88, Cluster: 4
+  24. presolicitation - Score: 9.88, Cluster: 4
+  25. presolicitation - Score: 9.88, Cluster: 4
+  26. presolicitation - Score: 9.88, Cluster: 4
+  27. presolicitation - Score: 9.88, Cluster: 4
+  28. presolicitation - Score: 9.88, Cluster: 4
+  29. presolicitation - Score: 9.88, Cluster: 4
+  30. presolicitation - Score: 9.88, Cluster: 4
+  31. presolicitation - Score: 9.88, Cluster: 4
+  32. presolicitation - Score: 9.88, Cluster: 4
+  33. presolicitation - Score: 9.88, Cluster: 4
+  34. presolicitation - Score: 9.88, Cluster: 4
+  35. presolicitation - Score: 9.88, Cluster: 4
+  36. presolicitation - Score: 9.88, Cluster: 4
+  37. presolicitation - Score: 9.88, Cluster: 4
+  38. presolicitation - Score: 9.88, Cluster: 4
+  39. presolicitation - Score: 9.88, Cluster: 4
+  40. presolicitation - Score: 9.88, Cluster: 4
+  41. presolicitation - Score: 9.88, Cluster: 4
+  42. presolicitation - Score: 9.88, Cluster: 4
+  43. presolicitation - Score: 9.88, Cluster: 4
+  44. presolicitation - Score: 9.88, Cluster: 4
+  45. presolicitation - Score: 9.88, Cluster: 4
+  46. presolicitation - Score: 9.88, Cluster: 4
+  47. presolicitation - Score: 9.88, Cluster: 4
+  48. presolicitation - Score: 9.88, Cluster: 4
+  49. presolicitation - Score: 9.88, Cluster: 4
+  50. presolicitation - Score: 9.88, Cluster: 4
+  51. presolicitation - Score: 9.88, Cluster: 4
+  52. presolicitation - Score: 9.88, Cluster: 4
+  53. presolicitation - Score: 9.88, Cluster: 4
+  54. presolicitation - Score: 9.88, Cluster: 4
+  55. presolicitation - Score: 9.88, Cluster: 4
+  56. presolicitation - Score: 9.88, Cluster: 4
+  57. presolicitation - Score: 9.88, Cluster: 4
+  58. presolicitation - Score: 9.88, Cluster: 4
+  59. presolicitation - Score: 9.88, Cluster: 4
+  60. presolicitation - Score: 9.88, Cluster: 4
+  61. presolicitation - Score: 9.88, Cluster: 4
+  62. presolicitation - Score: 9.88, Cluster: 4
+  63. presolicitation - Score: 9.88, Cluster: 4
+  64. presolicitation - Score: 9.88, Cluster: 4
+  65. presolicitation - Score: 9.88, Cluster: 4
+  66. presolicitation - Score: 9.88, Cluster: 4
+  67. presolicitation - Score: 9.88, Cluster: 4
+  68. presolicitation - Score: 9.88, Cluster: 4
+  69. presolicitation - Score: 9.88, Cluster: 4
+  70. presolicitation - Score: 9.88, Cluster: 4
+  71. presolicitation - Score: 9.88, Cluster: 4
+  72. presolicitation - Score: 9.88, Cluster: 4
+  73. presolicitation - Score: 9.88, Cluster: 4
+  74. presolicitation - Score: 9.88, Cluster: 4
+  75. presolicitation - Score: 9.88, Cluster: 4
+  76. presolicitation - Score: 9.88, Cluster: 4
+  77. presolicitation - Score: 9.88, Cluster: 4
+  78. presolicitation - Score: 9.88, Cluster: 4
+  79. presolicitation - Score: 9.88, Cluster: 4
+  80. presolicitation - Score: 9.88, Cluster: 4
+  81. presolicitation - Score: 9.88, Cluster: 4
+  82. presolicitation - Score: 9.88, Cluster: 4
+  83. presolicitation - Score: 9.88, Cluster: 4
+  84. presolicitation - Score: 9.88, Cluster: 4
+  85. presolicitation - Score: 9.88, Cluster: 4
+  86. presolicitation - Score: 9.88, Cluster: 4
+  87. presolicitation - Score: 9.88, Cluster: 4
+  88. presolicitation - Score: 9.88, Cluster: 4
+  89. presolicitation - Score: 9.88, Cluster: 4
+  90. presolicitation - Score: 9.88, Cluster: 4
+  91. presolicitation - Score: 9.88, Cluster: 4
+  92. presolicitation - Score: 9.88, Cluster: 4
+  93. presolicitation - Score: 9.88, Cluster: 4
+  94. presolicitation - Score: 9.88, Cluster: 4
+  95. presolicitation - Score: 9.88, Cluster: 4
+  96. presolicitation - Score: 9.88, Cluster: 4
+  97. presolicitation - Score: 9.88, Cluster: 4
+  98. presolicitation - Score: 9.88, Cluster: 4
+  99. presolicitation - Score: 9.88, Cluster: 4
+  100. presolicitation - Score: 9.88, Cluster: 4

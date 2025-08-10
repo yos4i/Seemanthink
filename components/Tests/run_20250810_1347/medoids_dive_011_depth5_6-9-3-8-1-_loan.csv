@@ -1,0 +1,4 @@
+Medoid1_ID,Medoid1_Word,Medoid2_ID,Medoid2_Word,Euclidean_Distance,Cosine_Distance
+0,resell,1,purchaser,23.904755,0.64054596
+0,resell,2,shipper,28.946962,0.82487947
+1,purchaser,2,shipper,22.201246,0.53785276

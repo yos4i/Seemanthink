@@ -1,6 +1,30 @@
 # Semanthink Setup Instructions
 
-## First-Time Setup
+## Windows Setup
+
+### 1. Create Virtual Environment
+```cmd
+python -m venv venv
+```
+
+### 2. Activate Virtual Environment
+```cmd
+venv\Scripts\activate
+```
+
+### 3. Install Dependencies
+```cmd
+pip install -r requirements.txt
+```
+
+### Running on Windows
+```cmd
+venv\Scripts\activate
+cd components
+python AutomatedSemantleSolver.py [target_word] [options]
+```
+
+## Linux Setup
 
 ### 1. Install Python Virtual Environment Support
 ```bash
@@ -22,30 +46,30 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## Running the Project
-
-After completing the setup above, you can run the Python files in the components directory.
-
-### Running AutomatedSemantleSolver
+### Running on Linux
 ```bash
 source venv/bin/activate
 cd components
 python3 AutomatedSemantleSolver.py [target_word] [options]
 ```
 
-Examples:
+## Running the Project
+
+After completing the setup above, you can run the Python files in the components directory.
+
+### AutomatedSemantleSolver Examples
 ```bash
 # Use default settings (smart medoids, random target word)
-python3 AutomatedSemantleSolver.py
+python AutomatedSemantleSolver.py
 
 # Specify target word with smart medoids (default)
-python3 AutomatedSemantleSolver.py book
+python AutomatedSemantleSolver.py book
 
 # Use smart medoids explicitly
-python3 AutomatedSemantleSolver.py book --medoids smart
+python AutomatedSemantleSolver.py book --medoids smart
 
 # Use random medoids with custom cluster count
-python3 AutomatedSemantleSolver.py book --medoids random --clusters 15
+python AutomatedSemantleSolver.py book --medoids random --clusters 15
 ```
 
 **Command Options:**
@@ -53,7 +77,7 @@ python3 AutomatedSemantleSolver.py book --medoids random --clusters 15
 - `--medoids`: Choose `smart` (default) or `random` medoid strategy  
 - `--clusters`: Number of clusters when using random medoids (default: 10)
 
-### Running Other Components
+### Other Components
 The main automation script requires:
 - Word2Vec model file (GoogleNews-vectors-negative300.bin)
 - Vocabulary file (English-Words_Semantle_filtered.txt)
@@ -61,16 +85,3 @@ The main automation script requires:
 
 Check the components directory for available Python modules.
 
-## Deactivating Virtual Environment
-
-When you're done working:
-```bash
-deactivate
-```
-
-## Reactivating Environment
-
-For future sessions, only run:
-```bash
-source venv/bin/activate
-```

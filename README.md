@@ -1,87 +1,33 @@
-# Semanthink Setup Instructions
+# Semanthink
 
-## Windows Setup
+An automated Semantle word guessing game solver using machine learning techniques and clustering algorithms.
 
-### 1. Create Virtual Environment
-```cmd
-python -m venv venv
-```
+## Overview
 
-### 2. Activate Virtual Environment
-```cmd
-venv\Scripts\activate
-```
+Semanthink is a Python-based tool that automatically solves Semantle puzzles by leveraging Word2Vec embeddings and intelligent clustering strategies. The system uses semantic similarity to make strategic guesses and converge on the target word.
 
-### 3. Install Dependencies
-```cmd
-pip install -r requirements.txt
-```
+## Features
 
-### Running on Windows
-```cmd
-venv\Scripts\activate
-cd components
-python AutomatedSemantleSolver.py [target_word] [options]
-```
+- Automated Semantle puzzle solving
+- Smart and random medoid clustering strategies
+- Word2Vec integration for semantic analysis
+- Cross-platform support (Windows/Linux)
+- Configurable clustering parameters
 
-## Linux Setup
+## Quick Start
 
-### 1. Install Python Virtual Environment Support
-```bash
-apt install python3.12-venv
-```
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run the solver: `python components/AutomatedSemantleSolver.py`
 
-### 2. Create Virtual Environment
-```bash
-python3 -m venv venv
-```
+For detailed setup and usage instructions, see [INSTRUCTIONS.md](INSTRUCTIONS.md).
 
-### 3. Activate Virtual Environment
-```bash
-source venv/bin/activate
-```
+## Requirements
 
-### 4. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### Running on Linux
-```bash
-source venv/bin/activate
-cd components
-python3 AutomatedSemantleSolver.py [target_word] [options]
-```
-
-## Running the Project
-
-After completing the setup above, you can run the Python files in the components directory.
-
-### AutomatedSemantleSolver Examples
-```bash
-# Use default settings (smart medoids, random target word)
-python AutomatedSemantleSolver.py
-
-# Specify target word with smart medoids (default)
-python AutomatedSemantleSolver.py book
-
-# Use smart medoids explicitly
-python AutomatedSemantleSolver.py book --medoids smart
-
-# Use random medoids with custom cluster count
-python AutomatedSemantleSolver.py book --medoids random --clusters 15
-```
-
-**Command Options:**
-- `target_word` (optional): The word to solve for
-- `--medoids`: Choose `smart` (default) or `random` medoid strategy  
-- `--clusters`: Number of clusters when using random medoids (default: 10)
-
-### Other Components
-The main automation script requires:
+- Python 3.12+
 - Word2Vec model file (GoogleNews-vectors-negative300.bin)
-- Vocabulary file (English-Words_Semantle_filtered.txt)
-- Complete clustering system setup
+- English vocabulary file (English-Words_Semantle_filtered.txt)
 
-Check the components directory for available Python modules.
+## Components
+
+The project includes various Python modules in the `components/` directory for different aspects of the Semantle solving process.
 
